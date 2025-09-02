@@ -1,9 +1,9 @@
-package design_patterns.singleton_pattern;
+package design_patterns.singleton_pattern.practice;
 
-public final class Singleton { // final will ensure no one can extend this class
+public final class Singleton {
     private static Singleton instance;
 
-    private Singleton(){
+    private Singleton() {
 
     }
 
@@ -15,7 +15,6 @@ public final class Singleton { // final will ensure no one can extend this class
                 }
             }
         }
-
         return instance;
     }
 }
