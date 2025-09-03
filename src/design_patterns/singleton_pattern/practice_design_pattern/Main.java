@@ -1,4 +1,4 @@
-package design_patterns.singleton_pattern.practice;
+package design_patterns.singleton_pattern.practice_design_pattern;
 
 import design_patterns.singleton_pattern.Singleton;
 

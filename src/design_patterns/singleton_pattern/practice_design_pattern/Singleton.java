@@ -1,4 +1,4 @@
-package design_patterns.singleton_pattern.practice;
+package design_patterns.singleton_pattern.practice_design_pattern;
 
 public final class Singleton {
     private static Singleton instance;
